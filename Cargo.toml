@@ -1,0 +1,13 @@
+[package]
+name = "option-inspect-none"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "The crate contains a trait, that implements the inspect_none(..) method on Options."
+repository = "https://github.com/bytifex/option-inspect-none.git"
+readme = "README.md"
+keywords = ["inspect_none", "Option"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
